@@ -426,6 +426,7 @@ label {
 .section.type-3 {
   background: #f0f2f4;
 }
+
 .section.type-4 {
   background: #00a0dc;
 }
@@ -999,4 +1000,15 @@ label {
 
 #block-for-all-services{
 	width:80% !important;
+}
+#director-sec{
+  display: inline-block;
+  width: 30%;
+  height: 30%;
+  align-self: left;
+}
+
+#direct-img{
+  width: 300px;
+  height: 300px;
 }
