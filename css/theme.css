@@ -379,7 +379,7 @@ label {
 /*= SECTIONS
 ---------------------------------------------------------------------------------------------- */
 .section {
-  padding: 100px 0;
+  padding: 40px 0;
 }
 .section.type-1 {
   background: #2a333b;
@@ -444,7 +444,7 @@ label {
   margin-bottom: 30px;
 }
 .section-headlines {
-  margin-bottom: 60px;
+  margin-bottom: 20px;
   text-align: center;
 }
 .section-headlines > h2 {
@@ -458,7 +458,7 @@ label {
   border-bottom: 2px solid #ddd;
   display: inline-block;
   padding-bottom: 10px;
-  margin-bottom: 35px;
+  margin-bottom: 15px;
   letter-spacing: 2px;
   word-spacing: 5px;
 }
@@ -1005,10 +1005,12 @@ label {
   display: inline-block;
   width: 30%;
   height: 30%;
-  align-self: left;
 }
 
 #direct-img{
   width: 300px;
   height: 300px;
+}
+.card{
+  margin-top: 15px;
 }
