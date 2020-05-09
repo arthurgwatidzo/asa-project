@@ -226,6 +226,7 @@ body {
   font-family: 'Roboto', Arial, sans-serif;
   font-weight: 300;
 }
+
 h1,
 h2,
 h3,
@@ -1013,4 +1014,20 @@ label {
 }
 .card{
   margin-top: 15px;
+}
+.fcopy{
+  background-color: #1a0000;
+      color: white;
+      align-items: center;
+      margin-top: 0px;
+      height: 60px;
+}
+#footing{
+  background-color: #d4bb79;
+  height: 70%;
+ font-size: 800;
+ line-height: 2;
+} 
+#foot{
+
 }
